@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4esv
 - 👀 I’m interested in coding, cooking and playing music.
-- 🌱 I’m currently learning Python, Haskell, HTML, CSS, PHP and linux envrioments.
+- 🌱 I’m currently learning Python, JS, HTML, CSS, Haskell, PHP and linux envrioments.
 - 💞️ I’m looking to collaborate on fun projects.
 - 📫 Direct Message me trough Twitter.
 
