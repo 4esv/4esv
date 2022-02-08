@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, cooking and playing music.
 - 🌱 I’m currently learning JS for frontend design.
 - 💞️ I’m looking to collaborate on fun projects and grow as a developer to foster a career in software.
-- 📫 You can directly email me at <contact@axel.fyi> or find more at <axel.fyi>
+- 📫 You can directly email me at <contact@axel.fyi> or find more at [Axel.Fyi](https://axel.fyi)
 
 <!---
 4esv/4esv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
