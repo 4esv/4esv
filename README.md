@@ -13,5 +13,5 @@
 <h1> Fun Stuff:</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4esv&show_icons=true&locale=en" alt="Stats" /></p>
-<p>&nbsp;<img align="center" src="https://www.codewars.com/users/4esv/badges/large" alt="Codewars" /></p>
+<p>&nbsp;<img align="center" width="400px" src="https://www.codewars.com/users/4esv/badges/large" alt="Codewars" /></p>
 
