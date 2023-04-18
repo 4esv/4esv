@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [axel.fyi](axel.fyi)
 
-- 💬 Ask me about **Flipper zero, automation and cooking**
+- 💬 Ask me about ** The flipper zero, automation and cooking**
 
 - 📫 How to reach me **me@axel.fyi**
 
