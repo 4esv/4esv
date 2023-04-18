@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">Why spend 15 minutes doing a task when you can spend an hour automating it?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4esv&label=Profile%20views&color=0e75b6&style=flat" alt="4esv" /> </p>
-
 - 🌱 I’m currently learning **Lobster, Vim and D3**
 
 - 👨‍💻 All of my projects are available at [axel.fyi](axel.fyi)
