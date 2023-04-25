@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **[Lobster](https://github.com/aardappel/lobster), [Vim](https://github.com/AstroNvim/AstroNvim) and [D3](https://github.com/d3/d3)**
 
-- 👨‍💻 All of my projects are available at [axel.fyi](axel.fyi)
+- 👨‍💻 Visit my website [axel.fyi](https://axel.fyi)
 
 - 💬 Ask me about **The flipper zero, automation and cooking**
 
