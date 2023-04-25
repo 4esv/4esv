@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Axel</h1>
 <h3 align="center">Why spend 15 minutes doing a task when you can spend an hour automating it?</h3>
 
-- 🌱 I’m currently learning **Lobster, Vim and D3**
+- 🌱 I’m currently learning **[Lobster](https://github.com/aardappel/lobster), [Vim](https://github.com/AstroNvim/AstroNvim) and [D3](https://github.com/d3/d3)**
 
 - 👨‍💻 All of my projects are available at [axel.fyi](axel.fyi)
 
