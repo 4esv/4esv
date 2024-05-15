@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Axel</h1>
-<h3 align="center">Why spend 15 minutes doing a task when you can spend an hour automating it?</h3>
+<h3 align="center">Why spend 15 minutes doing a task when you can spend an hour automating?</h3>
 
 - 👨‍💻 Visit my website [axel.fyi](https://axel.fyi)
 
