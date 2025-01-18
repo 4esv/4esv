@@ -1,6 +1,9 @@
 # Hi, I'm Axel 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Integration+Specialist;Automation+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Integration+Specialist;Automation+Enthusiast;Solbem+Prolver)](https://git.io/typing-svg)
+<a href="https://axel.fyi">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4esv&theme=dark&hide_border=true&layout=compact" />
+</a>
 
 ```python
 tech_stack = {
@@ -12,6 +15,8 @@ tech_stack = {
 
 > Why spend 15 minutes doing a task when you can spend an hour automating it?
 
-[![Website](https://img.shields.io/badge/axel.fyi-Visit-blue?style=flat-square)](https://axel.fyi)
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=4esv&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&column=4" />
+</div>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![](https://visitcount.itsvg.in/api?id=4esv&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
