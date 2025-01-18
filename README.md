@@ -1,6 +1,6 @@
 # Hi, I'm Axel 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Integration+Specialist;Automation+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Integration+Specialist;Automation+Enthusiast;Solbem+Prolver)](https://git.io/typing-svg)
 
 ```python
 tech_stack = {
