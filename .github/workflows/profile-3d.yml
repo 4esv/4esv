@@ -5,12 +5,15 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions: # Added
+  contents: write # Added
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4 # Updated to v4 for best practice
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,9 +23,20 @@ jobs:
             {
               "type": "normal",
               "config": {
-                "background_color": "#000000",
-                "foreground_color": "#00FF00",
-                "strong_color": "#00FF00",
-                "weak_color": "#006600"
+                "background_color": "#FFFFFF",
+                "foreground_color": "#333366",
+                "strong_color": "#333366",
+                "weak_color": "#5E81AC"
               }
             }
+      - name: Commit & Push # Added
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A ./profile-3d-contrib/ # Commit only the generated graph directory
+          if git diff --staged --quiet; then
+            echo "No changes to commit from graph generation."
+          else
+            git commit -m "generated 3d graph"
+            git push
+          fi
