@@ -1,7 +1,11 @@
-# 4esv/ Axel
+# 4esv
+
+Axel
+
+(aesv.io)
 
 Systems Integrator @ Cornell  
-JavaScript, automation, scripting (bash, PowerShell, Python), AI
+JavaScript, Automation, Scripting, AI, Integration...
 
 ```
 one line at a time
@@ -9,13 +13,9 @@ one line at a time
 
 ---
 
-**I build systems that talk to each other.**  
+**I build systems that work by themselves and talk to each other.**  
 Full-stack when it matters.  
 Automate what should be automated.
-
-- Integration > isolation  
-- Scripts are tools, not toys  
-- AI is just another shell command
 
 ---
 
