@@ -2,7 +2,7 @@
 
 Axel
 
-(aesv.io)
+[aesv.io]
 
 Systems Integrator @ Cornell  
 JavaScript, Automation, Scripting, AI, Integration...
