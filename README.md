@@ -10,4 +10,3 @@ JavaScript, Automation, Scripting, AI, Integration...
 ---
 
 I play piano to get better at vim, I use vim to get better at piano. 
-Loops make the world go 'round.
