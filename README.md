@@ -5,7 +5,7 @@ Axel
 [aesv.io](https://aesv.io)
 
 Systems Integrator @ Cornell  
-JavaScript, Automation, Scripting, AI, Integration...
+CLI, Automation, Scripting, AI and Integration
 
 ---
 
